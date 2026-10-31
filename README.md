@@ -60,7 +60,7 @@ The Claude Code skills I use for design and writing, packaged as a plugin so a c
 
 | Project | What it is |
 |---|---|
-| [**Transformation Hub**](https://hub.agroecologyindia.org) | An edited record of food systems work in India: government missions, NGO programmes, farmer federations and research. What didn't work sits next to what did. |
+| [**Transformation Hub**](https://hub.agroecologyindia.org) | An edited record of food systems work in India: government missions, NGO programmes, farmer federations and research. What didn't work sits next to what did. [Case study](https://sandeep9127-hub.github.io/transformation-hub/) |
 | [**CAT Induction**](https://cat-learn.vercel.app) | A free, self-paced course for new staff on agroecology, the landscape approach and how CAT works, with narrated scenes, checkpoints and a certificate. |
 | [**The Nexus**](https://cat-energy-nexus.vercel.app) | Renewable energy across the food system: 34 technologies mapped against farm value chains in ten CAT landscapes. |
 | [**AFSA Toolkit**](https://afsa-toolkit.vercel.app) | Assess a landscape's food system through 13 agroecology principles, with a worked example and printable field templates. |
