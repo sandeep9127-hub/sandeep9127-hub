@@ -56,11 +56,24 @@ The Claude Code skills I use for design and writing, packaged as a plugin so a c
 
 ## Live work
 
+### For CAT and the food systems sector
+
 | Project | What it is |
 |---|---|
-| [**CAT Hub**](https://hub.agroecologyindia.org) | Public dashboard of food systems work in India, with an India map, landscape briefs and a 64-chapter induction course for new staff. |
-| [**Energy nexus dashboard**](https://cat-energy-nexus.vercel.app) | 34 renewable energy technologies mapped across farm value chains. |
-| [**The Kutumb**](https://thekutumb.co) | Homestay site with bookings, a host admin and Airbnb calendar sync. |
+| [**Transformation Hub**](https://hub.agroecologyindia.org) | An edited record of food systems work in India: government missions, NGO programmes, farmer federations and research. What didn't work sits next to what did. |
+| [**CAT Induction**](https://cat-learn.vercel.app) | A free, self-paced course for new staff on agroecology, the landscape approach and how CAT works, with narrated scenes, checkpoints and a certificate. |
+| [**The Nexus**](https://cat-energy-nexus.vercel.app) | Renewable energy across the food system: 34 technologies mapped against farm value chains in ten CAT landscapes. |
+| [**AFSA Toolkit**](https://afsa-toolkit.vercel.app) | Assess a landscape's food system through 13 agroecology principles, with a worked example and printable field templates. |
+| [**Aquaculture Business Canvas**](https://aquaculture-business-canvas.vercel.app) | Plan a fish farming business step by step: SWOT, business model canvas, a live feasibility model and an Excel workbook you keep. |
+
+### Other sites and apps I've built
+
+| Project | What it is |
+|---|---|
+| [**HITA Trust**](https://hitatrust.org) | Website for the Himalayan Institute for Transformative Actions, a think tank in Palampur, Himachal Pradesh. |
+| [**The Kutumb**](https://thekutumb.co) | A boutique Himalayan homestay in Palampur, with bookings, a host admin and Airbnb calendar sync. |
+| [**Team Flow**](https://teamflow-rose.vercel.app) | HR for Indian teams: leave, comp-off, directory and approvals. Staff without email can log in with a PIN. |
+| [**GymSahayak**](https://gymsahayak-psi.vercel.app) | An AI trainer for gyms in smaller Indian cities: Hinglish voice food logging, nudges, and a dashboard for trainers. |
 
 Also: a satellite crop atlas for all ten CAT landscapes, a 12-episode explainer series on food systems transformation, and funder films built on a reusable explainer template.
 
